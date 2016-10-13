@@ -15,7 +15,7 @@
 <key>needs-shine</key>
 <true/>
 <key>url</key>
-<string>https://123.56.98.118/UserPortal/download/logo.png</string>
+<string>http://123.56.98.118/UserPortal/download/logo.png</string>
 </dict>
 <dict>
 <key>kind</key>
@@ -23,8 +23,8 @@
 <key>needs-shine</key>
 <true/>
 <key>url</key>
-<string>https://123.56.98.118/UserPortal/download/logo.png</string>
+<string>http://123.56.98.118/UserPortal/download/logo.png</string>
 </dict>
 </array>
 <key>metadata</key>
-<dict><key>bundle-identifier</key><string>com.tgf.ne</string><key>bundle-version</key><string>00.10.1019</string><key>kind</key><string>software</string><key>subtitle</key><string>消息通</string><key>title</key><string>消息通</string></dict></dict></array></dict></plist>
+<dict><key>bundle-identifier</key><string>com.tgf.ne</string><key>bundle-version</key><string>00.10.1020</string><key>kind</key><string>software</string><key>subtitle</key><string>消息通</string><key>title</key><string>消息通</string></dict></dict></array></dict></plist>
